@@ -283,7 +283,7 @@ function getGermanCars(inventory) {
 const sum = (a,b) => a + b;
 const addFive = (num) => num + 5;
 const argTimesTwo = (num) => num * 2;
-
+  
 /**
  * ### Challenge `carMaker`
  * THIS ONE IS A STRETCH GOAL. ATTEMPT IT ONLY AFTER
